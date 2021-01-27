@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  background-color: wheat;
+  width: 100vw;
+  height: 100vh;
+}
+
+.app_body {
+  width: 400px;
+  height: 150px;
+  margin: 0 auto;
+  border: 1px solid brown;
+overflow: hidden;
+}
+.test {
+  opacity: 0;
+}
