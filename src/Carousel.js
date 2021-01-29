@@ -99,7 +99,7 @@ const MyCarousel = () => {
             arr: newArr
         })
     }
-
+//first visible images
     useEffect(() => {
         const newArr = [state.images[state.images.length - 1], state.images[0], state.images[1]]
         setState(state => ({...state, arr: newArr}))
