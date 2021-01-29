@@ -3,6 +3,7 @@
   background-color: wheat;
   width: 100vw;
   height: 100vh;
+  padding: 20px 0;
 }
 
 .app_body {
@@ -10,7 +11,8 @@
   height: 150px;
   margin: 0 auto;
   border: 1px solid brown;
-overflow: hidden;
+    overflow: hidden;
+    margin-top: 100px;
 }
 .footer {
     border-top: 1px solid #bebebe;
