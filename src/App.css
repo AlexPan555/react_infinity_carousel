@@ -13,7 +13,7 @@
 overflow: hidden;
 }
 .footer {
-    border-top: 1px solid black;
+    border-top: 1px solid #bebebe;
     position: absolute;
     bottom: 0;
     width: 100%;
@@ -24,6 +24,8 @@ overflow: hidden;
     width: 80%;
     padding: 20px;
     margin: 0 auto;
+    color: #231f20;
+    font-size: 12px;
 }
 .test {
   opacity: 0;
