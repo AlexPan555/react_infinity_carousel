@@ -1,6 +1,7 @@
 import './App.css';
 import './carousel.css'
 import MyCarousel from './Carousel'
+import Footer from "./Footer";
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <div className='app_body'>
         <MyCarousel />
       </div>
+        <Footer />
     </div>
   );
 }
