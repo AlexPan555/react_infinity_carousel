@@ -12,7 +12,7 @@ useEffect(()=>{
    }, 3000)}
     return ()=> clearInterval(interval)
 }, [handleRightArrow, parentState.infinity])
-
+//visible img
     return(
         <div className='carousel_window'>
             <div className='arrow_left'
@@ -29,7 +29,6 @@ useEffect(()=>{
                     )
                 })}
             </div>
-
             <div className='arrow_right'
                  onClick={handleRightArrow} >
                 <img src={arrowRight} alt='icon'/>
