@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react_infinity_carousel/static/css/main.7f79fc07.chunk.css",
+    "main.js": "/react_infinity_carousel/static/js/main.a2260bb6.chunk.js",
+    "main.js.map": "/react_infinity_carousel/static/js/main.a2260bb6.chunk.js.map",
+    "runtime-main.js": "/react_infinity_carousel/static/js/runtime-main.e050d577.js",
+    "runtime-main.js.map": "/react_infinity_carousel/static/js/runtime-main.e050d577.js.map",
+    "static/js/2.2ef50d18.chunk.js": "/react_infinity_carousel/static/js/2.2ef50d18.chunk.js",
+    "static/js/2.2ef50d18.chunk.js.map": "/react_infinity_carousel/static/js/2.2ef50d18.chunk.js.map",
+    "static/js/3.e6f0b904.chunk.js": "/react_infinity_carousel/static/js/3.e6f0b904.chunk.js",
+    "static/js/3.e6f0b904.chunk.js.map": "/react_infinity_carousel/static/js/3.e6f0b904.chunk.js.map",
+    "index.html": "/react_infinity_carousel/index.html",
+    "static/css/main.7f79fc07.chunk.css.map": "/react_infinity_carousel/static/css/main.7f79fc07.chunk.css.map",
+    "static/js/2.2ef50d18.chunk.js.LICENSE.txt": "/react_infinity_carousel/static/js/2.2ef50d18.chunk.js.LICENSE.txt",
+    "static/media/arrow-left-solid.b27e2493.svg": "/react_infinity_carousel/static/media/arrow-left-solid.b27e2493.svg",
+    "static/media/arrow-right-solid.2db90993.svg": "/react_infinity_carousel/static/media/arrow-right-solid.2db90993.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e050d577.js",
+    "static/js/2.2ef50d18.chunk.js",
+    "static/css/main.7f79fc07.chunk.css",
+    "static/js/main.a2260bb6.chunk.js"
+  ]
+}
