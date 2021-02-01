@@ -19,7 +19,7 @@ const MyCarousel = () => {
         ],
         arr: [],
         arrIndex: 0,
-        itemStyle: [{left: '-100%'}, {left: 0}, {left: '100%'}],
+        itemStyle: [{left: '-100%', opacity: 0}, {left: 0}, {left: '100%'}],
     })
 
     const handleLeftArrow = () => {
